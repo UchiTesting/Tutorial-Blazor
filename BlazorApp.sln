@@ -10,6 +10,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "md", "md", "{CD51CD3E-C570-
 		md\HelloWorld.md = md\HelloWorld.md
 		md\Notes.md = md\Notes.md
 		md\ToDoList.md = md\ToDoList.md
+		md\WebAssemblySignalR.md = md\WebAssemblySignalR.md
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Extra", "Extra", "{700FF032-4B6A-45AD-A08C-94A65D6CBB0C}"

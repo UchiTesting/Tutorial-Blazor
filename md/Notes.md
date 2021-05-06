@@ -6,6 +6,7 @@ These notes accompany the realization of the official [Blazor Getting Started tu
 
 ## Table of Content
 
-[Hello World project](HelloWorld.md)
-[To Do List](ToDoList.md)
+- [Hello World project](HelloWorld.md)
+- [To Do List](ToDoList.md)
+- [Blazor WebAssemly with SignalR](WebAssemblySignalR.md)
 []()
