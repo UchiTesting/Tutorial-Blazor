@@ -36,6 +36,7 @@
     {
         hubConnection = new HubConnectionBuilder()
             .WithUrl(NavigationManager.ToAbsoluteUri("/chathub"))
+            .WithAutomaticReconnect()
             .Build();
 
         hubConnection.On<string, string>("ReceiveMessage", (user, message) =>
